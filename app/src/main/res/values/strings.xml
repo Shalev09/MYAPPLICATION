@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MYAPPLICATION</string>
+    <!--button strings:-->
+    <string name="btnRandomizerString">Randomize</string>
+    <!--text strings:-->
+    <string name="tvScoreTitle">Your score:</string>
+    <string name="tvScoreString">1000</string>
+    <string name="tvNumberString">Choose a number(1-100)</string>
+    <string name="tvRandomizerString">The number is:</string>
+    <string name="etHintString">Enter here</string>
+    <string name="tvRandomizedNumberString">0</string>
+    <string name="tvWinTitleString">Your winnings/losses:</string>
+    <string name="tvScoreWonString">0</string>
+</resources>
